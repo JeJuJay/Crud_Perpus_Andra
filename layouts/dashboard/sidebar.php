@@ -2,7 +2,7 @@
     <div class="container">
         <a href="" class="brand-link">
 
-            <span class="brand-text font-weight-light"> <img src="Adminv/book2.png" width="20%" style="border-radius: 100%;" alt="logo Perpustakaan">Perpustakaan Digital</span>
+            <span class="brand-text font-weight-light"> <img src="Adminv/resources/logo.png" width="20%" style="border-radius: 100%;" alt="logo cuyyyyyy">Digital Library</span>
         </a>
     </div>
 
@@ -15,7 +15,7 @@
                     <a href="dashboard.php?page=dashboard" class="nav-link">
                         <i class="nav-icon fas fa-home"></i>
                         <p>
-                            Beranda
+                            Dashboard
                         </p>
                     </a>
                 </li>
@@ -45,7 +45,7 @@
                         <a href="dashboard.php?page=koleksi" class="nav-link">
                             <i class="nav-icon fas fa-bookmark"></i>
                             <p>
-                                Riwayat Peminjaman
+                                Histori Peminjaman
                             </p>
                         </a>
                     </li>

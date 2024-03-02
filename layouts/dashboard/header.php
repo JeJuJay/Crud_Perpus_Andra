@@ -7,7 +7,7 @@
 
 
     <title>Digital library</title>
-    <link rel="icon" type="png" href="adminv/book2.png">
+    <link rel="icon" type="png" href="Adminv/resources/logo.png">
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
 
